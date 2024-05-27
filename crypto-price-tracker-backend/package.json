@@ -2,7 +2,7 @@
   "name": "crypto-price-tracker",
   "version": "1.0.0",
   "scripts": {
-    "start": "ts-node src/index.ts",
+    "start": "node dist/index.js",
     "build": "tsc",
     "serve": "node dist/index.js"
   },
